@@ -1,0 +1,37 @@
+body {
+  padding: 0 10%;
+  text-align: center;
+  background: #FF99FF;
+}
+
+h1, footer, a {
+  color: #97879c;
+}
+
+h1, footer {
+  font: 800 60px "Open Sans", sans-serif;
+  text-transform: uppercase;
+}
+
+footer {
+  font-size: 24px;
+}
+
+p {
+  margin-bottom: 0;
+  font: 60px "Gentium Basic", serif;
+  color: #c4ffeb;
+}
+
+.line {
+  -webkit-transition: color 0.4s;
+  transition: color 0.4s;
+}
+.line.visible {
+  color: #97879c;
+}
+
+footer {
+  height: 50vh;
+  line-height: 50vh;
+}

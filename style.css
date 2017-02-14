@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+font-family: 'Lobster', cursive;
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #000000;
+}
+body canvas {
+  display: block;
+}
+.sidorenka {
+  color: yellow;
+  font-size: 24px;
+font-family: 'Comfortaa', cursive;
+display:inline-block;
+position: absolute;
+left: 42%;
+top:10%;
+text-decoration: none;
+}

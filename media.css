@@ -1,0 +1,19 @@
+
+/*мобила*/
+@media all and (max-width: 767px)  {
+.sidorenka {
+  font-family: 'Comfortaa', cursive;
+  font-size: 20px;
+    position: absolute;
+    left: 25%;
+    overflow-y:hidden;
+  }
+h1 {
+  width: auto;
+  margin-left: -15%;
+  font-size: 23px;
+}
+p {
+  font-size: 22px;
+  margin: 0 auto;
+}
